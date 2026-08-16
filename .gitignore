@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.mlflow/
+mlruns/
+*.db
+.env
+.pytest_cache/
+.zen/
+.DS_Store
+data/*.csv
